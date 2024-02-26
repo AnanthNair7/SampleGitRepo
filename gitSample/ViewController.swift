@@ -17,5 +17,9 @@ class ViewController: UIViewController {
     func printName(){
         print("Hello git")
     }
+    
+    func printEmployee(){
+        print("iOS DEv")
+    }
 }
 
